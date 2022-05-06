@@ -1,0 +1,25 @@
+
+#banner {
+    background-image: url("https://wallpapercave.com/wp/8BGjltT.jpg");
+    background-size: cover;
+    background-position: center;
+    height: 400px;
+    width: 50%;
+  }
+
+  #banner .content {
+    border: 10px solid rgb(86, 87, 21);
+    position: relative;
+    top: 10px;
+    width: 400px;
+    margin: 0 auto;
+    font-size: larger;
+    color: red;
+    font-weight: bolder;
+  }
+
+h1 {
+    color: rgb(12, 17, 7);
+    font-weight: bolder;
+    font-style: oblique;
+}
